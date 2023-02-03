@@ -8,4 +8,6 @@ public abstract class Equipment {
     public int getValue() {
         return purchasePrice;
     }
+
+    //change
 }
